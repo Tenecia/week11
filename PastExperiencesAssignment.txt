@@ -1,0 +1,21 @@
+﻿5 Ways My Ophthalmic Assistant Experience Prepared Me for a Career in Tech
+
+
+1. Patience and Organization 
+ In my day to day tasks I have to interact with a variety of people. These interactions have taught me patience and understanding. Working as a coder requires a certain amount of patience and organization. My profession has taught me how to extract information from patients in order to figure out what eye conditions they may have and then what diagnostics would be most appropriate for them. 
+
+
+      2.  Asking Questions
+That means asking the right questions. This will be helpful in my career as a coder because asking the right questions will be important to delivering what the customer needs.  Often times patients are not sure what they need in terms of their eye care and it is our responsibility to gather the right information in order to help the ophthalmologist figure that out.
+
+
+    3.  Understanding the User
+Coders have to plan for the user interacting with the product in unexpected ways. In my current career, I have to change my instructions to each patient based on their needs or communication style. Some diagnostics are very dependent on how well you provide the patient with instructions. This skill is important for developers because the product should be easy to use for the targeted user base. A  patient  may think he or she know’s how to take a test, but without clear instructions from the tester, inaccurate and unwanted outcomes can occur. I ensure each patient receives clear and accurate instructions for each test so that outcomes accurately reflect the patient's condition. When coding I will need to take into account the different perspectives and preferences of different users. 
+
+
+   4. Problem Solving 
+In addition, my current job requires that I work with a variety of medical equipment that on occasions have error messages. I look at these messages and try to figure out how to get the equipment to work . If all else fails I am able to write down what that message is and communicate that to the department that need that information in order to figure out what is wrong with the equipment and fix it. Developers have to know when and how to deal with error messages so that their product will run as smoothly as possible for the user. 
+
+
+   5. Curiosity
+I’m always curious to learn more about my profession. As an ophthalmic assistant there are many opportunities to learn more about the ophthalmology field, including ophthalmic diseases, innovations, and technology. Every month we have the opportunity to view tech lectures taught by our ophthalmologists.  Development professionals also need to stay up to date on the newest technologies, and having a natural curiosity for these innovations will make staying up to date that much easier.
